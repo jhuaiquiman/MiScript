@@ -1,2 +1,2 @@
-# MiScrip
+# MiScript
 Repositorio curso platzi
